@@ -146,6 +146,7 @@
                </execution>
             </executions>
          </plugin>
+         <!--
          <plugin>
             <groupId>org.infinispan.maven-plugins</groupId>
             <artifactId>proto-schema-compatibility</artifactId>
@@ -156,7 +157,7 @@
                   </goals>
                </execution>
             </executions>
-         </plugin>
+         </plugin> -->
       </plugins>
    </build>
 
