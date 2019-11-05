@@ -144,6 +144,7 @@
                </execution>
             </executions>
          </plugin>
+         <!--
          <plugin>
             <groupId>org.infinispan.maven-plugins</groupId>
             <artifactId>proto-schema-compatibility</artifactId>
@@ -154,7 +155,7 @@
                   </goals>
                </execution>
             </executions>
-         </plugin>
+         </plugin> -->
          <plugin>
             <groupId>org.apache.karaf.tooling</groupId>
             <artifactId>karaf-maven-plugin</artifactId>
